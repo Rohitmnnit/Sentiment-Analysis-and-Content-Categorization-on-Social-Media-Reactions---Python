@@ -32,6 +32,7 @@ Sentiment: Sentiment of the reaction (e.g., positive, negative)
 Score: Score associated with the reaction
 
 #### Content.csv
+https://drive.google.com/file/d/1QDcZ0hlZCaZkWVrIIIOmvzlxZ-oW-v4n/view?usp=sharing
 Contains information about different content items, their type, and category.
 
 #### Columns:
