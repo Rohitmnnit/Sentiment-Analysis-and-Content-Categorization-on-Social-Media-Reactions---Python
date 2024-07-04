@@ -19,6 +19,8 @@ Visualizing different reaction types using bar plots.
 This project utilizes the following datasets:
 
 #### ReactionTypes.csv
+https://drive.google.com/file/d/1HjAXHYC1JaX7q2wXgXXLzmpioIKD2pBu/view?usp=drive_link
+
 Contains information about different reaction types, their sentiment, and associated score.
 
 #### Columns:
@@ -33,6 +35,7 @@ Score: Score associated with the reaction
 
 #### Content.csv
 https://drive.google.com/file/d/1QDcZ0hlZCaZkWVrIIIOmvzlxZ-oW-v4n/view?usp=sharing
+
 Contains information about different content items, their type, and category.
 
 #### Columns:
@@ -45,6 +48,7 @@ Content Type: Type of content (e.g., photo, video)
 Category: Category of the content (e.g., studying, healthy eating, technology, food)
 
 #### Reactions.csv
+https://drive.google.com/file/d/1asi2lb1TmzNWHBWka6Jvxnfv-vO1Mrpf/view?usp=drive_link
 
 Contains records of reactions to different content items, including the type of reaction and the datetime it occurred.
 
